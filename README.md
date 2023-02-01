@@ -1,13 +1,17 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
-
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+<p align="center">Formulário de criação de contas para o banco virtual.</p>
+<p>Nesse projeto foram aplicadas diversas validações de campos, como:</p>
+    - Min-lenght e Max-length do elemento input no HTML;
+    - required do elemento input no HTML;
+    - Pattern e Regex;
+    - função para validação de CPF;
+    - Validity State;
+
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
-
-## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+
+<hr>
